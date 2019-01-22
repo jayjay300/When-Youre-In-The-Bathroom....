@@ -9,9 +9,9 @@ to use the bathroom.
 
 User clicks and picks a sound file from their computer, where it is then outputted muffled and distorted.
 
+viewable at -- <http://whenyoureinthebathroomandyoursongcomeson.com>
 
-### viewable at -- <http://whenyoureinthebathroomandyoursongcomeson.com>
+#(I hand picked and pay for that domain so it will not be hidden by inline style!!!!!)
 
 
-
-Created December 2017
+#Created December 2017
