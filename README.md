@@ -6,5 +6,4 @@ to go to the bathroom.
 User clicks and picks a sound file from their computer, where it is then outputted muffled and distorted.
 
 
-viewable [HERE!]
-(whenyoureinthebathroomandyoursongcomeson.com)
+### viewable at -- <whenyoureinthebathroomandyoursongcomeson.com>
