@@ -1,4 +1,4 @@
-# When-Youre-In-The-Bathroom....
+# [When-Youre-In-The-Bathroom....](http://whenyoureinthebathroomandyoursongcomeson.com)
 
 
 A site I created experimenting with some JS sound libraries.
